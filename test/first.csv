@@ -1,0 +1,8 @@
+Datum,Naam / Omschrijving,Rekening,Tegenrekening,Code,Af Bij,Bedrag (EUR),MutatieSoort,Mededelingen
+20130101,,,1234,OV,Bij,455.4,Overschrijving,
+20130105,,,4321,BA,Af,11.74,Betaalautomaat,
+20130110,,,,BA,Af,8.91,Betaalautomaat,Supermarkt
+20130201,,,1234,GM,Af,20,Geldautomaat,
+20130205,,,4321,VZ,Bij,69,Verzamelbetaling,
+20130301,,,,VZ,Bij,474,Verzamelbetaling,Fiets
+20130401,NS bla Leiden,,,BA,Af,34.35,Betaalautomaat,

@@ -1,0 +1,8 @@
+Int,Float,String,Date,Empty
+1,0.1,Hallo,"Jun 21, 2013"
+2,1.0,Zout,"Jun 15, 2013"
+2,4.3,Hallo,"Jun 28, 2012",
+4,7.1,Hallo,"Jun 28, 2013"
+-5,-1.5,Goedemorgen,"Jun 28, 2014"
+6,,Doei!,"Jul 28, 2013"
+6.1,,Lol,1
