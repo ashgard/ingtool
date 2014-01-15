@@ -1,0 +1,18 @@
+<queries>
+    <query name="inkomsten" subname="private" subsubname="ashgard">
+        <and AfBij="Af"/>
+        <and Tegenrekening="ashgard"/>
+    </query>
+    <query name="uitgaven" subname="overige" subsubname="klussen">
+        <and AfBij="Af"/>
+        <and>
+            <or Mededelingen="gamma" equal="False"/>
+            <or Mededelingen="formido" equal="False"/>
+            <or Mededelingen="provos" equal="False"/>
+            <or Mededelingen="j.k. van den dool" equal="False"/>
+            <or Mededelingen="barselaar" equal="False"/>
+            <or Mededelingen="intratuin" equal="False"/>
+            <or Mededelingen="de bosrand" equal="False"/>
+        </and>
+    </query>
+</queries>

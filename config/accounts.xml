@@ -1,0 +1,30 @@
+<accounts>
+  <!-- prive -->
+  <account name="ashgard" number="8210410"/>
+  <account name="gerdien" number="351217630"/>
+  <account name="gezamelijk" number="493831"/>
+  <!-- vrienden & familie -->
+  <account name="hellen" number="4923370"/>
+  <account name="gert" number="361318006"/>
+  <!-- hypotheek -->
+  <account name="argenta" number="240076389"/>
+  <!-- verzekeringen -->
+  <account name="zorg en zekerheid" number="128526"/>
+  <account name="fbto" number="3054"/>
+  <account name="woonrust" number="616694563"/>
+  <!-- water & energie -->
+  <account name="greenchoice" number="5309282"/>
+  <account name="nlenergie" number="3157965"/>
+  <account name="dunea" number="11600"/>
+  <!-- tv en internet -->
+  <account name="ziggo" number="115856730"/>
+  <account name="xs4all" number="4683839"/>
+  <!-- belasting -->
+  <account name="belasting" number="2445588"/>
+  <account name="belastingsamenwerking" number="285145355"/>
+  <account name="riks advies" number="9358631"/>
+  <!-- other -->
+  <account name="marcel brandt" number="662923553"/>
+  <account name="conrad" number="396709478"/>
+</accounts>
+
